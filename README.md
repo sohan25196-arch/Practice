@@ -1,4 +1,4 @@
 # Practice
-Code never lie &lt; 
+Code never lie 
 <br>
 people do
